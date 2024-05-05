@@ -47,3 +47,7 @@ TRUE(),
 
 ![cc1](https://github.com/narendrakharol037/Credit_Card_Financial_analysis/assets/121941969/45f7d7ce-a712-4623-9083-677d2b458e99)
 
+### Credit card customer report
+
+![cc2](https://github.com/narendrakharol037/Credit_Card_Financial_analysis/assets/121941969/d6e16839-d691-4701-a452-cec79d7f7587)
+
