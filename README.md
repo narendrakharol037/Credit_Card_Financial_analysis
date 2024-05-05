@@ -51,3 +51,31 @@ TRUE(),
 
 ![cc2](https://github.com/narendrakharol037/Credit_Card_Financial_analysis/assets/121941969/d6e16839-d691-4701-a452-cec79d7f7587)
 
+## Insights Week 52 (24 Dec)
+
+#### Week on Week Change:
+
+• Revenue Decreased by 12.8%.
+
+• Total Transaction Amt & Count Decreased by 13% & 11%
+
+#### Overview Year To Date:
+
+• Overall revenue is 55M
+
+• Total interest is 8M
+
+• Total transaction amount is 45M
+
+• Male customers are contributing more in revenue 31M, female 26M
+
+• Blue & Silver credit card are contributing to 93% of overall transactions
+
+• TX, NY & CA is contributing to 68%
+
+• Overall Activation rate is 57.5%
+
+• Overall Delinquent rate is 6.06%
+
+
+
